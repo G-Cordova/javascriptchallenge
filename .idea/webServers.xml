@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a0ccf97e-e1c1-4dad-9792-080c7d5abc65" name="javascriptchallenge" url="https://bootcamp-coders.cnm.edu/~gcordova25/javascriptchallenge/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/gcordova25/public_html/javascriptchallenge" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
